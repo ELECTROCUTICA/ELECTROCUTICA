@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 #### Learning:
 
 1. C#  (WinForm, WebAPI are OK;  WPF, Unity in the future)
@@ -12,4 +11,3 @@
 
 
 My Blog : http://theyanhua.top
--->
