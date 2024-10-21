@@ -1,6 +1,6 @@
 #### Learning:
 
-1. C#  (WinForm, WebAPI are OK;  WPF, Unity in the future)
+1. C#  (WinForm, WebAPI are OK ;  WPF, Unity in the future)
 2. Java  (SSM, SpringBoot, SpringCloud Nacos)
 3. C++  (in the future)
 4. Vue ( Just a little )
