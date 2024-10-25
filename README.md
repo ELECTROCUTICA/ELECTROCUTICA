@@ -1,5 +1,7 @@
 #### Learning:
 
+准备2026考研中👊
+
 1. C#  (WinForm, WebAPI are OK ;  WPF, Unity in the future)
 2. Java  (SSM, SpringBoot, SpringCloud Nacos)
 3. C++  (in the future perhaps)
