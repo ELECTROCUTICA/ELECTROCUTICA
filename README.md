@@ -9,5 +9,3 @@
 
 
 #### Blog : http://theyanhua.top
-#### Steam : https://steamcommunity.com/id/ELECTROCUTICA/
-#### Bilibili : https://space.bilibili.com/6481073
